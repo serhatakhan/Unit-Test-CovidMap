@@ -31,8 +31,5 @@ The unit tests used in this project are especially focused on Redux actions and 
 
 ## Preview
 
-
-
-
-
+![kayt2-ezgif com-video-to-gif-converter](https://github.com/serhatakhan/UnitTest-CovidMap/assets/147662915/d5844b76-f9c1-43b7-bf3b-5417ddea43c2)
 
